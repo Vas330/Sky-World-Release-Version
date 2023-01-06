@@ -12,6 +12,10 @@ TagManager:
   - asteroid
   - WorldBorders
   - Coins
+  - BG_MUSIC_VOLUME_SLIDER
+  - BG_MUSIC_VOLUME_TEXT
+  - BG_MUSIC
+  - BG_MUSIC_CREATED
   layers:
   - Default
   - TransparentFX
